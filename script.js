@@ -19,7 +19,7 @@ function GerarQRCode(){
 
     function h1Recado() {
         const h1Novo = document.querySelector('h1');
-        h1Novo.innerHTML = `Aqui está seu QRCode! Obrigado.`;
+        h1Novo.innerHTML = `Aqui está seu QR Code! Obrigado.`;
     }
 
     function reloadBtn() {
